@@ -1,5 +1,5 @@
 import React, { forwardRef } from 'react';
-import { useLocalizer } from '../../../../context';
+import { useLocalizer } from '@forml/hooks';
 
 /**
  * @component
